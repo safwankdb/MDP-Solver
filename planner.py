@@ -1,10 +1,5 @@
 #! /usr/bin/python3
 
-'''
-CS 747: Programming Assignment 2
-Mohd Safwan, October 2020
-'''
-
 import numpy as np
 import pulp as pl
 import argparse
